@@ -1,6 +1,6 @@
 
 央视频道,#genre#
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790085600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0499c7daeaa85427cd68ee3d938133dc&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•2『线路1』
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790089200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4c15c9267bda6a9ff5b118fa20d1b255&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•2『线路1』
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8$LR•IPV4•2『线路2』
 CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub$LR•IPV4•2『线路1』
 CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl$LR•IPV4•2『线路2』
@@ -10,118 +10,119 @@ CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs$LR•IPV4•2『�
 CCTV兵器,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$LR•IPV6•3『线路1』
 CCTV兵器,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$LR•IPV4•3『线路2』
 CCTV兵器,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs$LR•IPV4•3『线路3』
-CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790085600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-9636a12848787a815a6d8e794ab8e96a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•112『线路1』
-CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•112『线路2』
-CCTV,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5e0b2cad85483e7a94b981089e80d0c7$LR•IPV4•112『线路3』
-CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•112『线路4』
-CCTV,http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•112『线路5』
-CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790060400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d25fb8e9f49098922b57d7fc3df96f2f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•112『线路6』
-CCTV,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d0fc4ad01b5cc8dd33f1d4b56a1c83af$LR•IPV4•112『线路7』
-CCTV,https://live.eac-news.com/CCTV/streams/cctv6.m3u8$LR•IPV4•112『线路8』
-CCTV,http://69.30.245.50/live/cctv6.m3u8$LR•IPV4•112『线路9』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$LR•IPV4•112『线路10』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$LR•IPV4•112『线路11』
-CCTV,http://74.91.26.218:82/live/cctv1hd.m3u8$LR•IPV4•112『线路12』
-CCTV,http://69.30.245.50/live/cctv1.m3u8$LR•IPV4•112『线路13』
-CCTV,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$LR•IPV4•112『线路14』
-CCTV,http://74.91.26.218:82/live/cctv4hd.m3u8$LR•IPV4•112『线路15』
-CCTV,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$LR•IPV4•112『线路16』
-CCTV,http://74.91.26.218:82/live/cctv11hd.m3u8$LR•IPV4•112『线路17』
-CCTV,https://xykt-fix.github.io/play/a02e/index.m3u8$LR•IPV4•112『线路18』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$LR•IPV4•112『线路19』
-CCTV,http://74.91.26.218:82/live/cctv13hd.m3u8$LR•IPV4•112『线路20』
-CCTV,http://go.bkpcp.top/mg/cctv13$LR•IPV4•112『线路21』
-CCTV,http://74.91.26.218:82/live/cctv3hd.m3u8$LR•IPV4•112『线路22』
-CCTV,http://192.151.150.154/live/cctv8k.m3u8$LR•IPV4•112『线路23』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub$LR•IPV4•112『线路24』
-CCTV,https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8$LR•IPV4•112『线路25』
-CCTV,http://74.91.26.218:82/live/cctv14hd.m3u8$LR•IPV4•112『线路26』
-CCTV,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8$LR•IPV4•112『线路27』
-CCTV,http://74.91.26.218:82/live/cctv16hd.m3u8$LR•IPV4•112『线路28』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$LR•IPV4•112『线路29』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$LR•IPV4•112『线路30』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$LR•IPV4•112『线路31』
-CCTV,http://74.91.26.218:82/live/cctv12hd.m3u8$LR•IPV4•112『线路32』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$LR•IPV4•112『线路33』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$LR•IPV4•112『线路34』
-CCTV,http://74.91.26.218:82/live/cctv8hd.m3u8$LR•IPV4•112『线路35』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$LR•IPV4•112『线路36』
-CCTV,http://74.91.26.218:82/live/cctv2hd.m3u8$LR•IPV4•112『线路37』
-CCTV,https://xykt-fix.github.io/Y77.m3u8$LR•IPV4•112『线路38』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$LR•IPV4•112『线路39』
-CCTV,http://74.91.26.218:82/live/cctv7hd.m3u8$LR•IPV4•112『线路40』
-CCTV,http://74.91.26.218:82/live/cctv10hd.m3u8$LR•IPV4•112『线路41』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$LR•IPV4•112『线路42』
-CCTV,http://74.91.26.218:82/live/cctv17hd.m3u8$LR•IPV4•112『线路43』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6•112『线路44』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?$LR•IPV6•112『线路45』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?$LR•IPV6•112『线路46』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•112『线路47』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?$LR•IPV6•112『线路48』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?$LR•IPV6•112『线路49』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?$LR•IPV6•112『线路50』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?$LR•IPV6•112『线路51』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?$LR•IPV6•112『线路52』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•112『线路53』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?$LR•IPV6•112『线路54』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?$LR•IPV6•112『线路55』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?$LR•IPV6•112『线路56』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?$LR•IPV6•112『线路57』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$LR•IPV6•112『线路58』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?$LR•IPV6•112『线路59』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$LR•IPV6•112『线路60』
-CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?$LR•IPV6•112『线路61』
-CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$LR•IPV4•112『线路62』
-CCTV,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•112『线路63』
-CCTV,http://192.151.150.154/live/cctv2hd.m3u8$LR•IPV4•112『线路64』
-CCTV,http://204.12.221.218:8181/3m1080p/cctv2.m3u8$LR•IPV4•112『线路65』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$LR•IPV4•112『线路66』
-CCTV,http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•112『线路67』
-CCTV,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8$LR•IPV4•112『线路68』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd$LR•IPV4•112『线路69』
-CCTV,http://74.91.26.218:82/live/cctv6hd.m3u8$LR•IPV4•112『线路70』
-CCTV,http://207.56.13.146:81/cdnlive/cctv7.m3u8$LR•IPV4•112『线路71』
-CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$LR•IPV4•112『线路72』
-CCTV,http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•112『线路73』
-CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$LR•IPV4•112『线路74』
-CCTV,https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•112『线路75』
-CCTV,http://118.122.144.115:8888/newlive/live/hls/14/live.m3u8$LR•IPV4•112『线路76』
-CCTV,https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•112『线路77』
-CCTV,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$LR•IPV4•112『线路78』
-CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$LR•IPV4•112『线路79』
-CCTV,http://198.204.228.26/live/cctv14hd.m3u8$LR•IPV4•112『线路80』
-CCTV,http://74.91.26.218:82/live/cctv15hd.m3u8$LR•IPV4•112『线路81』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$LR•IPV4•112『线路82』
-CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790082000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-75cf0ce917286dedd3f6cb7580d56d09&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•112『线路83』
-CCTV,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0$LR•IPV4•112『线路84』
-CCTV,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=197d451e08849f71be835f5dcb4a13d3$LR•IPV4•112『线路85』
-CCTV,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•112『线路86』
-CCTV,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•112『线路87』
-CCTV,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•112『线路88』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$LR•IPV6•112『线路89』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8$LR•IPV6•112『线路90』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8$LR•IPV6•112『线路91』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$LR•IPV6•112『线路92』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8$LR•IPV6•112『线路93』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$LR•IPV6•112『线路94』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$LR•IPV6•112『线路95』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$LR•IPV6•112『线路96』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8$LR•IPV6•112『线路97』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8$LR•IPV6•112『线路98』
-CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8$LR•IPV6•112『线路99』
-CCTV,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$LR•IPV4•112『线路100』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk$LR•IPV4•112『线路101』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq$LR•IPV4•112『线路102』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$LR•IPV4•112『线路103』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc$LR•IPV4•112『线路104』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc$LR•IPV4•112『线路105』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$LR•IPV4•112『线路106』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy$LR•IPV4•112『线路107』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl$LR•IPV4•112『线路108』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn$LR•IPV4•112『线路109』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq$LR•IPV4•112『线路110』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp$LR•IPV4•112『线路111』
-CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss$LR•IPV4•112『线路112』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790089200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5d98bf52327a7369d2e437c394d3829a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•113『线路1』
+CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•113『线路2』
+CCTV,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=989968d94fc561926dd138e28d65cc6c$LR•IPV4•113『线路3』
+CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•113『线路4』
+CCTV,https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8$LR•IPV4•113『线路5』
+CCTV,http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•113『线路6』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790060400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d25fb8e9f49098922b57d7fc3df96f2f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•113『线路7』
+CCTV,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d0fc4ad01b5cc8dd33f1d4b56a1c83af$LR•IPV4•113『线路8』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6•113『线路9』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?$LR•IPV6•113『线路10』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?$LR•IPV6•113『线路11』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•113『线路12』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?$LR•IPV6•113『线路13』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?$LR•IPV6•113『线路14』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?$LR•IPV6•113『线路15』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?$LR•IPV6•113『线路16』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?$LR•IPV6•113『线路17』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•113『线路18』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?$LR•IPV6•113『线路19』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?$LR•IPV6•113『线路20』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?$LR•IPV6•113『线路21』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?$LR•IPV6•113『线路22』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$LR•IPV6•113『线路23』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?$LR•IPV6•113『线路24』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$LR•IPV6•113『线路25』
+CCTV,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?$LR•IPV6•113『线路26』
+CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$LR•IPV4•113『线路27』
+CCTV,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•113『线路28』
+CCTV,http://192.151.150.154/live/cctv2hd.m3u8$LR•IPV4•113『线路29』
+CCTV,http://204.12.221.218:8181/3m1080p/cctv2.m3u8$LR•IPV4•113『线路30』
+CCTV,http://74.91.26.218:82/live/cctv3hd.m3u8$LR•IPV4•113『线路31』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$LR•IPV4•113『线路32』
+CCTV,http://74.91.26.218:82/live/cctv4hd.m3u8$LR•IPV4•113『线路33』
+CCTV,http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•113『线路34』
+CCTV,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8$LR•IPV4•113『线路35』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd$LR•IPV4•113『线路36』
+CCTV,http://74.91.26.218:82/live/cctv6hd.m3u8$LR•IPV4•113『线路37』
+CCTV,http://207.56.13.146:81/cdnlive/cctv7.m3u8$LR•IPV4•113『线路38』
+CCTV,http://74.91.26.218:82/live/cctv8hd.m3u8$LR•IPV4•113『线路39』
+CCTV,http://74.91.26.218:82/live/cctv10hd.m3u8$LR•IPV4•113『线路40』
+CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$LR•IPV4•113『线路41』
+CCTV,http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•113『线路42』
+CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$LR•IPV4•113『线路43』
+CCTV,https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•113『线路44』
+CCTV,http://118.122.144.115:8888/newlive/live/hls/14/live.m3u8$LR•IPV4•113『线路45』
+CCTV,https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•113『线路46』
+CCTV,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$LR•IPV4•113『线路47』
+CCTV,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$LR•IPV4•113『线路48』
+CCTV,http://198.204.228.26/live/cctv14hd.m3u8$LR•IPV4•113『线路49』
+CCTV,http://74.91.26.218:82/live/cctv15hd.m3u8$LR•IPV4•113『线路50』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$LR•IPV4•113『线路51』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790082000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-75cf0ce917286dedd3f6cb7580d56d09&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•113『线路52』
+CCTV,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0$LR•IPV4•113『线路53』
+CCTV,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=197d451e08849f71be835f5dcb4a13d3$LR•IPV4•113『线路54』
+CCTV,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•113『线路55』
+CCTV,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•113『线路56』
+CCTV,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•113『线路57』
+CCTV,http://74.91.26.218:82/live/cctv1hd.m3u8$LR•IPV4•113『线路58』
+CCTV,http://69.30.245.50/live/cctv1.m3u8$LR•IPV4•113『线路59』
+CCTV,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$LR•IPV4•113『线路60』
+CCTV,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$LR•IPV4•113『线路61』
+CCTV,http://74.91.26.218:82/live/cctv2hd.m3u8$LR•IPV4•113『线路62』
+CCTV,http://69.30.245.50/live/cctv6.m3u8$LR•IPV4•113『线路63』
+CCTV,http://74.91.26.218:82/live/cctv7hd.m3u8$LR•IPV4•113『线路64』
+CCTV,https://xykt-fix.github.io/Y77.m3u8$LR•IPV4•113『线路65』
+CCTV,http://74.91.26.218:82/live/cctv11hd.m3u8$LR•IPV4•113『线路66』
+CCTV,http://74.91.26.218:82/live/cctv12hd.m3u8$LR•IPV4•113『线路67』
+CCTV,http://74.91.26.218:82/live/cctv14hd.m3u8$LR•IPV4•113『线路68』
+CCTV,http://74.91.26.218:82/live/cctv17hd.m3u8$LR•IPV4•113『线路69』
+CCTV,http://74.91.26.218:82/live/cctv13hd.m3u8$LR•IPV4•113『线路70』
+CCTV,http://go.bkpcp.top/mg/cctv13$LR•IPV4•113『线路71』
+CCTV,https://live.eac-news.com/CCTV/streams/cctv6.m3u8$LR•IPV4•113『线路72』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$LR•IPV4•113『线路73』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$LR•IPV4•113『线路74』
+CCTV,https://xykt-fix.github.io/play/a02e/index.m3u8$LR•IPV4•113『线路75』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$LR•IPV4•113『线路76』
+CCTV,http://192.151.150.154/live/cctv8k.m3u8$LR•IPV4•113『线路77』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub$LR•IPV4•113『线路78』
+CCTV,https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8$LR•IPV4•113『线路79』
+CCTV,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8$LR•IPV4•113『线路80』
+CCTV,http://74.91.26.218:82/live/cctv16hd.m3u8$LR•IPV4•113『线路81』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$LR•IPV4•113『线路82』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$LR•IPV4•113『线路83』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$LR•IPV4•113『线路84』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$LR•IPV4•113『线路85』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$LR•IPV4•113『线路86』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$LR•IPV4•113『线路87』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$LR•IPV4•113『线路88』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$LR•IPV4•113『线路89』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$LR•IPV6•113『线路90』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8$LR•IPV6•113『线路91』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8$LR•IPV6•113『线路92』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$LR•IPV6•113『线路93』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8$LR•IPV6•113『线路94』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$LR•IPV6•113『线路95』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$LR•IPV6•113『线路96』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$LR•IPV6•113『线路97』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8$LR•IPV6•113『线路98』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8$LR•IPV6•113『线路99』
+CCTV,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8$LR•IPV6•113『线路100』
+CCTV,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$LR•IPV4•113『线路101』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk$LR•IPV4•113『线路102』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq$LR•IPV4•113『线路103』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$LR•IPV4•113『线路104』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc$LR•IPV4•113『线路105』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc$LR•IPV4•113『线路106』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$LR•IPV4•113『线路107』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy$LR•IPV4•113『线路108』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl$LR•IPV4•113『线路109』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn$LR•IPV4•113『线路110』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq$LR•IPV4•113『线路111』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp$LR•IPV4•113『线路112』
+CCTV,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss$LR•IPV4•113『线路113』
 
 浙江频道,#genre#
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39$LR•IPV4
@@ -573,17 +574,17 @@ CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8$LR•
 GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8$LR•IPV4
 Gugak TV,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8$LR•IPV4
 KBS Joy,https://xykt-fix.github.io/flv/KJ_W.m3u8$LR•IPV4
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8$LR•IPV4•25『线路1』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8$LR•IPV4•25『线路2』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8$LR•IPV4•25『线路3』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8$LR•IPV4•25『线路4』
-MBC,https://play.mbcbrasil.tv.br/playlist.m3u8$LR•IPV4•25『线路5』
-MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8$LR•IPV4•25『线路6』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8$LR•IPV4•25『线路7』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8$LR•IPV4•25『线路8』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8$LR•IPV4•25『线路9』
-MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8$LR•IPV4•25『线路10』
-MBC,https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8$LR•IPV4•25『线路11』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8$LR•IPV4•25『线路1』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8$LR•IPV4•25『线路2』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8$LR•IPV4•25『线路3』
+MBC,https://play.mbcbrasil.tv.br/playlist.m3u8$LR•IPV4•25『线路4』
+MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8$LR•IPV4•25『线路5』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8$LR•IPV4•25『线路6』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8$LR•IPV4•25『线路7』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8$LR•IPV4•25『线路8』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8$LR•IPV4•25『线路9』
+MBC,https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8$LR•IPV4•25『线路10』
+MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8$LR•IPV4•25『线路11』
 MBC,https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8$LR•IPV4•25『线路12』
 MBC,https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8$LR•IPV4•25『线路13』
 MBC,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8$LR•IPV4•25『线路14』
@@ -660,19 +661,19 @@ TVK,https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8$LR•IPV4•4�
 TVK,https://air.tvk6.ru/tvk24/playlist.m3u8$LR•IPV4•4『线路2』
 TVK,https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8$LR•IPV4•4『线路3』
 TVK,https://stream.tvkstella.pl/stella/stella.m3u8$LR•IPV4•4『线路4』
-UK,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8$LR•IPV4•37『线路1』
-UK,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8$LR•IPV4•37『线路2』
-UK,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8$LR•IPV4•37『线路3』
-UK,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8$LR•IPV4•37『线路4』
-UK,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8$LR•IPV4•37『线路5』
-UK,http://5.254.89.106/8794/index.m3u8$LR•IPV4•37『线路6』
-UK,https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8$LR•IPV4•37『线路7』
-UK,https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8$LR•IPV4•37『线路8』
-UK,https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8$LR•IPV4•37『线路9』
-UK,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8$LR•IPV4•37『线路10』
-UK,http://45.153.96.44:8001$LR•IPV4•37『线路11』
-UK,https://jmp2.uk/stvp-IN3000846P$LR•IPV4•37『线路12』
-UK,https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8$LR•IPV4•37『线路13』
+UK,http://5.254.89.106/8794/index.m3u8$LR•IPV4•37『线路1』
+UK,https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8$LR•IPV4•37『线路2』
+UK,http://45.153.96.44:8001$LR•IPV4•37『线路3』
+UK,https://jmp2.uk/stvp-IN3000846P$LR•IPV4•37『线路4』
+UK,https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8$LR•IPV4•37『线路5』
+UK,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8$LR•IPV4•37『线路6』
+UK,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8$LR•IPV4•37『线路7』
+UK,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8$LR•IPV4•37『线路8』
+UK,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8$LR•IPV4•37『线路9』
+UK,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8$LR•IPV4•37『线路10』
+UK,https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8$LR•IPV4•37『线路11』
+UK,https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8$LR•IPV4•37『线路12』
+UK,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8$LR•IPV4•37『线路13』
 UK,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8$LR•IPV4•37『线路14』
 UK,https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8$LR•IPV4•37『线路15』
 UK,https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8$LR•IPV4•37『线路16』
@@ -697,9 +698,9 @@ UK,https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m
 UK,https://ntd02.akamaized.net/NTD-UK/index.m3u8$LR•IPV4•37『线路35』
 UK,https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8$LR•IPV4•37『线路36』
 UK,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8$LR•IPV4•37『线路37』
-US,http://138.121.15.230:9002/DEPELICULA/index.m3u8$LR•IPV4•12『线路1』
-US,https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8$LR•IPV4•12『线路2』
-US,https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•12『线路3』
+US,https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8$LR•IPV4•12『线路1』
+US,https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•12『线路2』
+US,http://138.121.15.230:9002/DEPELICULA/index.m3u8$LR•IPV4•12『线路3』
 US,https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8$LR•IPV4•12『线路4』
 US,https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8$LR•IPV4•12『线路5』
 US,https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8$LR•IPV4•12『线路6』
@@ -914,9 +915,8 @@ viju TV1000,http://stream.mcquack.net/110/index.m3u8$LR•IPV4•3『线路1』
 viju TV1000,http://stream.mcquack.net/100/index.m3u8$LR•IPV4•3『线路2』
 viju TV1000,https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv$LR•IPV4•3『线路3』
 Whiplash Cinema,https://cdn.whiplash.cc/whiplash-cinema/index.m3u8$LR•IPV4
-Zee Cinema,https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8$LR•IPV4•3『线路1』
-Zee Cinema,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8$LR•IPV4•3『线路2』
-Zee Cinema,https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd$LR•IPV4•3『线路3』
+Zee Cinema,https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8$LR•IPV4•2『线路1』
+Zee Cinema,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8$LR•IPV4•2『线路2』
 Andromeda Italy,https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8$LR•IPV4
 BBC Drama,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4
 CSI: Crime Scene Investigation,https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8$LR•IPV4
@@ -1571,10 +1571,8 @@ Sport TV,http://178.124.179.122:8080/SportTV/mpegts$LR•IPV4•4『线路3』
 Sport TV,http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8$LR•IPV4•4『线路4』
 Sportitalia 24,https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8$LR•IPV4
 Sportitalia Solocalcio,https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8$LR•IPV4
-Star Sports 1 Hindi,http://103.253.18.58:8000/play/a03o$LR•IPV4
 Star Sports 2 HD,http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8$LR•IPV4
-Star Sports 2 Hindi,https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8$LR•IPV4•2『线路1』
-Star Sports 2 Hindi,http://103.157.248.140:8000/play/a01m/index.m3u8$LR•IPV4•2『线路2』
+Star Sports 2 Hindi,https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8$LR•IPV4
 Strongman Champions League,https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8$LR•IPV4
 T Sports 7,https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8$LR•IPV4
 TJK TV 2,https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8$LR•IPV4
@@ -1826,6 +1824,8 @@ Newsmax 2,https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 Newsmax Balkans,https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8$LR•IPV4
 Newsmax Spanish,https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8$LR•IPV4
 Newsmax TV,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8$LR•IPV4
+Polsat News 2,https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd$LR•IPV4
+Polsat News Polityka,https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8$LR•IPV4
 Press TV French,https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8$LR•IPV4
 PTV News,http://103.250.28.74:8000/play/a017/index.m3u8$LR•IPV4
 RNN DOS,https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8$LR•IPV4
@@ -1844,7 +1844,6 @@ Telesur English,https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m
 Telesur HD,https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8$LR•IPV4
 Times Now Navbharat,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8$LR•IPV4•2『线路1』
 Times Now Navbharat,https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8$LR•IPV4•2『线路2』
-Times Now World,http://103.72.101.252:8080/live/876.m3u8$LR•IPV4
 Top Stories by Newsy,https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8$LR•IPV4
 TRT World HD,https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8$LR•IPV4
 TV9 Bangla,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8$LR•IPV4
@@ -1858,6 +1857,7 @@ Sky News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngr
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8$LR•IPV4
 GS TV,https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8$LR•IPV4
 HNN 24x7,https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8$LR•IPV4
+Polsat News,https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8$LR•IPV4
 
 财经,#genre#
 Bloomberg TV,http://210.210.155.37/dr9445/h/h03/index.m3u8$LR•IPV4•12『线路1』
