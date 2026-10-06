@@ -7042,6 +7042,8 @@ FilmRise Anime,
 Nick HD+,
 Freeform,
 Disney International HD,
+BabyTV Turkiye,
+Gloobinho,
 
 音乐,#genre#
 MTV Live,
@@ -7197,6 +7199,7 @@ Zhara,
 Сити Эдем Сиртаки ТВ,
 УТРК Музыка,
 Tunes 6,
+Zona M,
 
 新闻,#genre#
 TVBS新闻,
